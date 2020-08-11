@@ -36,3 +36,9 @@ if your adaptor is realtek. then go to this link:
 Link not working?
   https://github.com/johnsmith80/REALTEK-RTL8192FU_RTL8725AU/issues
   
+Other supported version:
+  
+  tested: kernel 5.7.x
+                 5.x
+  https://github.com/blackPantherOS/rtl8192fu.git
+  
