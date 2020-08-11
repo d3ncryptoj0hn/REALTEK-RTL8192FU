@@ -25,7 +25,7 @@ type:
 
     lsusb
 
-if your adaptor is realtek. then go to this link: 
+if your adaptor is realtek N9100. then go to this link: 
 http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.zip/file
 
     cd Downloads
