@@ -24,8 +24,14 @@ to get started.
 type:
 
     lsusb
+    tar -xvf rtl8192FU_rtl8725AU_WiFi_linux_v5.8.6.2_35538.20191028_COEX20190910-0d02.tar.gz
+    cd rtl8192FU_rtl8725AU_WiFi_linux_v5.8.6.2_35538.20191028_COEX20190910-0d02
+    chmod +x Makefile
+    make
+    make install
 
-if your adaptor is realtek N9100. then go to this link: 
+Full Driver Installer:
+if your adaptor is realtek N9100, Full Driver installer: 
 http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.zip/file
 
     cd Downloads
