@@ -37,7 +37,10 @@ Realtek Semiconductor Corp.
 
 Full Driver Installer:
 
-if your adaptor is realtek N9100, Full Driver installer: 
+N9100 Easy setup?:
+
+Download This Driver from Mediafire:
+
 http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.zip/file
 
     cd Downloads
