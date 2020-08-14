@@ -35,9 +35,7 @@ Realtek Semiconductor Corp.
     make
     make install
 
-Full Driver Installer:
-
-N9100 Easy setup?:
+Full Driver Installer N9100 Easy setup?:
 
 Download This Driver from Mediafire:
 
