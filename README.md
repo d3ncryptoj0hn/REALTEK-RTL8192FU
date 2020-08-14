@@ -27,15 +27,16 @@ type:
     
 Realtek Semiconductor Corp.
     
-    git clone https://github.com/johnsmith80/REALTEK-RTL8192FU_RTL8725AU.git
-    cd REALTEK-RTL8192FU_RTL8725AU
-    tar -xvf rtl8192FU_rtl8725AU_WiFi_linux_v5.8.6.2_35538.20191028_COEX20190910-0d02.tar.gz
-    cd rtl8192FU_rtl8725AU_WiFi_linux_v5.8.6.2_35538.20191028_COEX20190910-0d02
+    git clone https://github.com/johnsmith80/REALTEK-RTL8192FU.git
+    cd REALTEK-RTL8192FU
+    unzip N9100-RTL8192FU_RTL8725AU-wifi-driver.zip
+    cd N9100-RTL8192FU_RTL8725AU-wifi-driver
     chmod +x Makefile
     make
     make install
 
 Full Driver Installer:
+
 if your adaptor is realtek N9100, Full Driver installer: 
 http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.zip/file
 
@@ -46,7 +47,9 @@ http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.z
     sudo ./install.sh
 
 Link not working?
+
   https://github.com/johnsmith80/REALTEK-RTL8192FU_RTL8725AU/issues
+  
   will send you another link
   
 Other supported version:
