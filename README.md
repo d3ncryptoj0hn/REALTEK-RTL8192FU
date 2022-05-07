@@ -47,19 +47,15 @@ http://www.mediafire.com/file/09i8ro6p6fjt7os/RTL8192FU_RTL8725AU-linux-driver.z
     chmod +x install.sh
     sudo ./install.sh
 
-Link not working?
 
-  https://github.com/johnsmith80/REALTEK-RTL8192FU_RTL8725AU/issues
+Other supported version & Credit:
   
-  will send you another link
+  tested: kernel 5.16.x
+                 
+  + [Johnsmith80](https://github.com/johnsmith80/Realtek-rtl8192fu-5.16.0.kernel)
+  + [BrightX-rtl8192fu](https://github.com/BrightX/rtl8192fu)
+  + [Kelebek333-rtl8192fu DKMS version](https://github.com/kelebek333/rtl8192fu-dkms)
   
-Other supported version:
-  
-  tested: kernel 5.7.x
-                 5.x
-  https://github.com/blackPantherOS/rtl8192fu.git
-  
-                            by: blackPantherOS
                             
                             
 Follow me:
